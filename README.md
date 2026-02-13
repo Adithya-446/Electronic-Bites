@@ -1,6 +1,6 @@
 # Combinational Logic Calculator
 
-🚧 **Status: Work in progress** — currently building it.
+**Work in progress** — currently building it.
 
 I’m a 16-year-old junior building a calculator using combinational logic. My goal is to understand how real digital systems are built. This project documents my learning and the design process step-by-step. Every bit of help is appreciated.
 
