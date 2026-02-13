@@ -17,7 +17,7 @@ This is a Multisim model of what I was talking about. The Multisim design file i
 I also implemented this on a breadboard.
 <img width="975" height="552" alt="image" src="https://github.com/user-attachments/assets/c4e93a8d-8e87-4505-9c00-4b8bf73f9461" />
 
-The least significant bit corresponds to **DIP switch 5**, and the most significant bit corresponds to **DIP switch 8**. Please note that **“ON”** on the switch is actually **“off”** (sorry for the confusion).
+The least significant bit corresponds to **DIP switch 5**, and the most significant bit corresponds to **DIP switch 8**. Please note that “ON” on the switch is actually “off”, and vice-versa (sorry for the confusion).
 
 With switches **5 and 8 ON**, a signal of **1010** should be transmitted, and the circuit displays a **5** as expected.
 
