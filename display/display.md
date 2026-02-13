@@ -11,7 +11,7 @@ I used a common display driver or decoder, the **74HC47**.
 <img width="975" height="483" alt="image" src="https://github.com/user-attachments/assets/38425b25-d95f-4e16-9930-f5511ae717b5" />
 
 
-This is a Multisim model of what I was talking about. The Multisim design file is included in this repository: 
+This is a Multisim model of what I was talking about. The Multisim design file is included in this directory 
 
 
 I also implemented this on a breadboard.
